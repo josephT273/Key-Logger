@@ -1,0 +1,16 @@
+<Key.ctrl: <65507>> Pressed.
+n<Key.ctrl: <65507>> Pressed.
+j<Key.ctrl: <65507>> Pressed.
+n<Key.shift: <65505>> Pressed.
+Hello <Key.shift: <65505>> Pressed.
+World 
+
+this is my password
+and 
+Backspace Pressed
+
+Backspace Pressed
+d thss is my email<Key.ctrl: <65507>> Pressed.
+<Key.ctrl: <65507>> Pressed.
+j<Key.ctrl: <65507>> Pressed.
+c
