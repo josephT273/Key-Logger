@@ -1,1 +1,8 @@
 config.py
+Keylogger.txt
+Pipfile
+Pipfile.lock
+build/
+.idea
+dist/
+main.spec
